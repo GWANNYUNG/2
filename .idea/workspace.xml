@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ae6449b-c401-454f-a58b-8fdac384ab61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img1.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/img1.GIF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/img2.GIF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img3.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/img3.GIF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img4.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/img4.GIF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img5.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/img5.GIF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img6.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/img6.GIF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img7.GIF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img8.GIF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img9.GIF" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="3762">
-                <caret line="198" column="40" selection-start-line="198" selection-start-column="40" selection-end-line="198" selection-end-column="40" />
+              <first_editor relative-caret-position="341">
+                <caret line="259" selection-start-line="259" selection-end-line="259" />
               </first_editor>
               <second_editor />
             </state>
@@ -61,8 +52,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,8 +139,8 @@
     <entry file="file://$PROJECT_DIR$/2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3762">
-            <caret line="198" column="40" selection-start-line="198" selection-start-column="40" selection-end-line="198" selection-end-column="40" />
+          <first_editor relative-caret-position="341">
+            <caret line="259" selection-start-line="259" selection-end-line="259" />
           </first_editor>
           <second_editor />
         </state>
