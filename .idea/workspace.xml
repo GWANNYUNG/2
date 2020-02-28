@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/2.md" line="6" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ae6449b-c401-454f-a58b-8fdac384ab61" name="Default Changelist" comment="Revert &quot;222&quot;&#10;&#10;This reverts commit 135551fdfe193de98554931ef864b7c064a59612." />
+    <list default="true" id="1ae6449b-c401-454f-a58b-8fdac384ab61" name="Default Changelist" comment="Revert &quot;222&quot;&#10;&#10;This reverts commit 135551fdfe193de98554931ef864b7c064a59612.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1093" />
     <option name="y" value="64" />
     <option name="width" value="685" />
@@ -64,7 +66,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,7 +116,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22391991" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
